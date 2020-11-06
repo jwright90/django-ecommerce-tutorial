@@ -1,6 +1,0 @@
-######################################
-### SETUP & PROJECT IMPLEMENTATION ###
-###[0:16:55]                       ###
-######################################
---- TASKS REMAINING ---
-# Add prodcuts and checkout pages to home page
